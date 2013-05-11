@@ -1,7 +1,3 @@
-#
-# Please submit bugfixes or comments via http://bugs.tizen.org/
-#
-
 Name:           compositeproto
 Version:        0.4.2
 Release:        1
