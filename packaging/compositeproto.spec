@@ -34,6 +34,7 @@ make %{?_smp_mflags}
 
 
 %files
+%license COPYING
 %defattr(-,root,root,-)
 %{_includedir}/X11/extensions/*
 %{_datadir}/pkgconfig/*
