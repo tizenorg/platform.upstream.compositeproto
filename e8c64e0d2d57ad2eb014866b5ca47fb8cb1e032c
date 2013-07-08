@@ -1,0 +1,8 @@
+Change-Id: Ie8c64e0d2d57ad2eb014866b5ca47fb8cb1e032c
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 10:05:43 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4659
+Project: platform/upstream/compositeproto
+Branch: refs/heads/tizen
