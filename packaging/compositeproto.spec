@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           compositeproto
 Version:        0.4.2
 Release:        1
